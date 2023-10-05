@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9e23ef2569074de43a82730230aba797
+guid: ea25c464ec7247b4b9e553e52449ea8e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -81,19 +81,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -123,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghosts_0
+      name: Ghosts_0_1
       rect:
         serializedVersion: 2
         x: 0
@@ -131,20 +118,20 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7386212887bcb3a45bde801e4f850189
-      internalID: 1445815246
+      spriteID: 0261a9ee876da8b43b86b63da232db49
+      internalID: 1938133093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ghosts_1
+      name: Ghosts_1_1
       rect:
         serializedVersion: 2
         x: 0
@@ -152,14 +139,14 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3614ef1bcc46ed04580a5c2df2fdc7de
-      internalID: 957960301
+      spriteID: 1a85240809f48944085b55b906eadc84
+      internalID: 633572773
       vertices: []
       indices: 
       edges: []
@@ -175,8 +162,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ghosts_0: 1445815246
-      Ghosts_1: 957960301
+      Ghosts_0_1: 1938133093
+      Ghosts_1_1: 633572773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
